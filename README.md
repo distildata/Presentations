@@ -1,3 +1,3 @@
-# Presentations
+# presentations
 
 A place for all presentations
